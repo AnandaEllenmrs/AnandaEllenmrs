@@ -33,6 +33,11 @@ Sou estudante de Big Data e Inteligência Analítica na Universidade Anhembi Mor
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaEllenmrs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+ 
+</p>
+   
+![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
@@ -41,8 +46,9 @@ Sou estudante de Big Data e Inteligência Analítica na Universidade Anhembi Mor
 <div> 
  
 <div> 
- Contato e Redes Sociais:
+📫  Contato e Redes Sociais:
 <br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandaellen)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-square&logo=Gmail&logoColor=white&link=ananda.ellen.111@gmail.com)](ananda.ellen.111@gmail.com)
+
