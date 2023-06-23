@@ -4,11 +4,12 @@
 
 Sou estudante de Big Data e Inteligência Analítica na Universidade Anhembi Morumbi, e apaixonada por dados. 📚
 
-### "Quanto mais estudo, mais sinto que minha mente é insaciável." - Ada Lovelace
+ <b> **"Quanto mais estudo, mais sinto que minha mente é insaciável." - Ada Lovelace**
 
  <br>
  
- ## 🚀 **Linguagens e Ferramentas de estudo:**
+  🚀 **Linguagens e Ferramentas</b>:**
+ 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-black?style?style=flat-the-badge&logo=mysql&logoColor=white)
