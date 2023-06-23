@@ -4,15 +4,11 @@
 
 Sou estudante de Big Data e Inteligência Analítica na Universidade Anhembi Morumbi, e apaixonada por dados. 📚
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandaellen)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-square&logo=Gmail&logoColor=white&link=ananda.ellen.111@gmail.com)](ananda.ellen.111@gmail.com)
-
-
 ### "Quanto mais estudo, mais sinto que minha mente é insaciável." - Ada Lovelace
 
 
-<br>
-
+ <br>
+ 
  ## 🚀 **Linguagens e Ferramentas de estudo:**
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-the-badge&logo=oracle&logoColor=white)
@@ -24,13 +20,27 @@ Sou estudante de Big Data e Inteligência Analítica na Universidade Anhembi Mor
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 
+</div>
+
+
+<br>
+
+<div> 
+ Contato e Redes Sociais:
+<br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandaellen)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-square&logo=Gmail&logoColor=white&link=ananda.ellen.111@gmail.com)](ananda.ellen.111@gmail.com)
 
 <br>
 
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandaEllenmrs&show_icons=true&theme=dark)
 
-<a href="https://github.com/karinnecristina">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaEllenmrs&layout=compact&langs_count=8&theme=dark"/>
-</a>
+<div>
+  <a href="https://github.com/AnandaEllenmrs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandaEllenmrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaEllenmrs&layout=compact&langs_count=7&theme=dark"/>
+   <img src="https://komarev.com/ghpvc/?username=AnandaEllenmrs&color=green" alt="AnandaEllenmrs" />
+</div>
+<div style="display: inline_block"><br>
