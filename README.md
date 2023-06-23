@@ -13,9 +13,7 @@ Sou estudante de Big Data e Inteligência Analítica na Universidade Anhembi Mor
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-black?style?style=flat-the-badge&logo=mysql&logoColor=white)
 ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
-![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
 ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 
