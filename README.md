@@ -8,6 +8,10 @@ Sou estudante de Big Data e Inteligência Analítica na Universidade Anhembi Mor
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaEllenmrs&layout=compact)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anandaellen)
+
+
+
 
           
   
