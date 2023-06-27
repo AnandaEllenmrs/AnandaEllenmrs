@@ -4,7 +4,7 @@
 
 Sou estudante de Big Data e Inteligência Analítica na Universidade Anhembi Morumbi, e apaixonada por dados. 📚
 
- <b> **"Quanto mais estudo, mais sinto que minha mente é insaciável." - Ada Lovelace**
+ <b> **"Quanto mais estudo, mais sinto que minha mente é insaciável." **
 
  <br>
  
