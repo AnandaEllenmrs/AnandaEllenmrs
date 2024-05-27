@@ -28,10 +28,6 @@ Sou estudante de Big Data e Inteligência Analítica na Universidade Anhembi Mor
 </div>
 <div style="display: inline_block"><br>
  
-</p>
-   
-![Snake animation](https://github.com/gabrielaschmitt/gabrielaschmitt/blob/output/github-contribution-grid-snake.svg)
-
 #
 
 📫  Contato e Redes Sociais:
